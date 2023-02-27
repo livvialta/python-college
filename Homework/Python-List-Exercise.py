@@ -324,7 +324,6 @@ else:
 #Or we have the solution down below: - 
 # This solution is more complete. We have input to insert data about the area after choose wich polygon did you 'have'.
 
-
 polygon= int(input('Type how many side numbers did your polygon have? \n'))
 
 if polygon < 3:
